@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ###
 # Unity folders and files
 ###
@@ -44,6 +45,8 @@ Thumbs.db
 =======
 =======
 >>>>>>> 9c08eaf6ed98cded9939bd4b153fe4630a51d1eb
+=======
+>>>>>>> 636bab1a2f01257941c11af5a992807cfe9bf741
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
@@ -119,6 +122,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 1a5dfcf77f47b7ab03cc828ad19e01b619069349
 =======
 >>>>>>> 9c08eaf6ed98cded9939bd4b153fe4630a51d1eb
+=======
+>>>>>>> 636bab1a2f01257941c11af5a992807cfe9bf741
